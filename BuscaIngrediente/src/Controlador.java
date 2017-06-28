@@ -10,7 +10,7 @@ public class Controlador implements ActionListener {
 	ArrayList<Ingrediente> ingredientes = new ArrayList<>();
 	GestionBBDD gBBDD;
 	
-	
+	//Autor: Satan
 	
 	public Controlador(VistaIngrediente vi, AccessOracle bbdd) {
 		super();
